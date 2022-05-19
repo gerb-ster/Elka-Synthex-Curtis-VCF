@@ -15,6 +15,6 @@ _the current design needs to be debugged_
 
 ## Links
 
-https://bitbucket.org/XNOTOX/synthex-vcf/src/master/
-https://electricdruid.net/cem3320-filter-designs/
-https://www.instructables.com/How-to-Program-an-Attiny85-From-an-Arduino-Uno/
+https://bitbucket.org/XNOTOX/synthex-vcf/src/master/ 
+https://electricdruid.net/cem3320-filter-designs/ 
+https://www.instructables.com/How-to-Program-an-Attiny85-From-an-Arduino-Uno/ 
