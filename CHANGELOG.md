@@ -17,3 +17,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Temporary firmware code
+
+
+## [1.2.0] - 2022-06-20
+
+### Changed
+
+- Changed filter caps to support larger good quality caps.
